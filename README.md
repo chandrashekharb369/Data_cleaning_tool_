@@ -74,5 +74,13 @@ smart-data-cleaner/
 
 This project drastically reduces the time and effort required for manual data cleaning, offering a smart preprocessing assistant that can be used by students, analysts, and data scientists alike. It's not just a utility — it's a step toward automated data intelligence.
 
-<img width="487" height="556" alt="image" src="https://github.com/user-attachments/assets/3fb5dc86-1132-4802-a24b-3ffe2536e5a8" />
 
+## Smaple Application Images
+<img width="1482" height="957" alt="image" src="https://github.com/user-attachments/assets/c4b20e49-88ec-4db2-a648-01ee0a7fb590" />
+<img width="1475" height="956" alt="image" src="https://github.com/user-attachments/assets/feeb7108-6d9c-4ec8-b04b-a89682d7b865" />
+<img width="1466" height="911" alt="image" src="https://github.com/user-attachments/assets/84cb04a1-c41f-457d-9957-615d1865df34" />
+<img width="1491" height="966" alt="image" src="https://github.com/user-attachments/assets/2b81d0cb-c710-44f3-86fe-d0c7b2fca8c9" />
+<img width="1482" height="963" alt="image" src="https://github.com/user-attachments/assets/509c26ca-294d-4d48-ab3e-7bc28e7ea429" />
+<img width="1478" height="977" alt="image" src="https://github.com/user-attachments/assets/ff9a9af3-0100-4b03-931e-9032c5f88826" />
+<img width="1488" height="963" alt="image" src="https://github.com/user-attachments/assets/f8277ac0-05ef-4945-8fd0-3858a01336ea" />
+<img width="1494" height="966" alt="image" src="https://github.com/user-attachments/assets/1a888fbd-e41d-4ece-929f-35c575bb5c4a" />
