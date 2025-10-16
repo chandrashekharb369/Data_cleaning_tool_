@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-16T21:06:11.780429",
+    "original_shape": [
+      1000,
+      8
+    ],
+    "current_shape": [
+      962,
+      8
+    ],
+    "processing_log": [
+      "Loaded sample dataset",
+      "Removed 20 duplicate rows (keep='first')",
+      "Applied missing value strategies: {'salary': 'median', 'performance_score': 'median'}",
+      "Removed outliers using iqr method: {'id': 0, 'age': 0, 'salary': 18, 'performance_score': 0}",
+      "Completed automatic data cleaning",
+      "Exported data to CSV: exports\\cleaned_data.csv",
+      "Exported data to Excel: exports\\cleaned_data.xlsx"
+    ]
+  },
+  "data_summary": {
+    "basic_info": {
+      "rows": 962,
+      "columns": 8,
+      "memory_usage": "149.92 KB",
+      "duplicates": "0"
+    },
+    "column_types": {
+      "numeric": 4,
+      "categorical": 2
+    },
+    "missing_data": {
+      "total_missing": "0",
+      "columns_with_missing": 0
+    },
+    "data_types": {
+      "id": "int64",
+      "name": "object",
+      "age": "int32",
+      "salary": "float64",
+      "department": "object",
+      "start_date": "datetime64[ns]",
+      "performance_score": "float64",
+      "is_manager": "bool"
+    }
+  },
+  "column_info": {
+    "id": {
+      "dtype": "int64",
+      "missing_count": "0",
+      "missing_percentage": 0.0,
+      "unique_values": 962,
+      "is_numeric": true,
+      "mean": 501.42931392931393,
+      "std": 289.46035709254704,
+      "min": "1",
+      "max": "1000",
+      "q25": 250.25,
+      "q50": 503.5,
+      "q75": 751.75
+    },
+    "name": {
+      "dtype": "object",
+      "missing_count": "0",
+      "missing_percentage": 0.0,
+      "unique_values": 962,
+      "is_numeric": false,
+      "top_values": {
+        "Person_1000": "1",
+        "Person_1": "1",
+        "Person_984": "1",
+        "Person_983": "1",
+        "Person_982": "1",
+        "Person_981": "1",
+        "Person_980": "1",
+        "Person_979": "1",
+        "Person_978": "1",
+        "Person_977": "1"
+      },
+      "most_frequent": "Person_1000"
+    },
+    "age": {
+      "dtype": "int32",
+      "missing_count": "0",
+      "missing_percentage": 0.0,
+      "unique_values": 62,
+      "is_numeric": true,
+      "mean": 50.00519750519751,
+      "std": 18.16988205676605,
+      "min": "18",
+      "max": "79",
+      "q25": 35.0,
+      "q50": 50.0,
+      "q75": 66.0
+    },
+    "salary": {
+      "dtype": "float64",
+      "missing_count": "0",
+      "missing_percentage": 0.0,
+      "unique_values": 865,
+      "is_numeric": true,
+      "mean": 50677.36812066236,
+      "std": 14103.282672919722,
+      "min": 14906.104962276702,
+      "max": 88088.86686816339,
+      "q25": 41552.11435281217,
+      "q50": 51239.83939167547,
+      "q75": 59847.34460150941
+    },
+    "department": {
+      "dtype": "object",
+      "missing_count": "0",
+      "missing_percentage": 0.0,
+      "unique_values": 5,
+      "is_numeric": false,
+      "top_values": {
+        "Marketing": "206",
+        "Sales": "205",
+        "Finance": "196",
+        "HR": "191",
+        "Engineering": "164"
+      },
+      "most_frequent": "Marketing"
+    },
+    "start_date": {
+      "dtype": "datetime64[ns]",
+      "missing_count": "0",
+      "missing_percentage": 0.0,
+      "unique_values": 962,
+      "is_numeric": false,
+      "top_values": {
+        
