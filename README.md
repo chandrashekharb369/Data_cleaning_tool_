@@ -29,7 +29,7 @@ In the era of big data, analysts and data scientists spend over 70% of their tim
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+https://github.com/chandrashekharb369/Data_cleaning_tool_.git
 cd smart-data-cleaner
 ```
 
