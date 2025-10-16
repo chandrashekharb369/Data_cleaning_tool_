@@ -73,7 +73,3 @@ smart-data-cleaner/
 ## 🎯 Impact
 
 This project drastically reduces the time and effort required for manual data cleaning, offering a smart preprocessing assistant that can be used by students, analysts, and data scientists alike. It's not just a utility — it's a step toward automated data intelligence.
-
-## 📝 License
-
-MIT License - see LICENSE file for details.
